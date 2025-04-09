@@ -27,7 +27,7 @@ Desarrollador web apasionado por crear experiencias digitales únicas usando tec
 - 🔭 Actualmente trabajando en proyectos frontend y backend.
 - 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
 - 💬 ¿Quieres hablar de código o diseño? ¡Estoy abierto a colaborar!
-- 📫 Puedes escribirme a: [cristiandavidcm2000@gmail.com](cristhian:cristiandavidcm2000@gmail.com)
+- 📫 Puedes escribirme a: [cristiandavidcm2000@gmail.com](cristiandavidcm2000@gmail.com)
 
 ---
 
