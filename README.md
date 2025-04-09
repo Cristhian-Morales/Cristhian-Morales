@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Cristhian]
 
 Desarrollador web apasionado por crear experiencias digitales únicas usando tecnologías modernas.
 
@@ -18,7 +18,7 @@ Desarrollador web apasionado por crear experiencias digitales únicas usando tec
 
 ## 📊 GitHub Stats
 
-![Tus stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Tus stats](https://github-readme-stats.vercel.app/api?username=Cristhian-morales&show_icons=true&theme=radical)
 
 ---
 
@@ -27,7 +27,7 @@ Desarrollador web apasionado por crear experiencias digitales únicas usando tec
 - 🔭 Actualmente trabajando en proyectos frontend y backend.
 - 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
 - 💬 ¿Quieres hablar de código o diseño? ¡Estoy abierto a colaborar!
-- 📫 Puedes escribirme a: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- 📫 Puedes escribirme a: [cristiandavidcm2000@gmail.com](cristhian:cristiandavidcm2000@gmail.com)
 
 ---
 
