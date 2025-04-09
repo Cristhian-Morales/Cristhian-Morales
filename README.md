@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Cristhian]
+# 👋 ¡Hola! Soy Cristhian
 
 Desarrollador web apasionado por crear experiencias digitales únicas usando tecnologías modernas.
 
