@@ -4,7 +4,7 @@ Desarrollador web apasionado por crear experiencias digitales únicas usando tec
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías que he implementado
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
