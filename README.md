@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Cristhian
 
-Desarrollador web apasionado por crear experiencias digitales únicas usando tecnologías modernas.
+Desarrollador web con muchas ganas de aprender y desarrollar habilidades en diversas tecnologias.
 
 ---
 
