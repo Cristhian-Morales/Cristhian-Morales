@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**Cristhian-Morales/Cristhian-Morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web apasionado por crear experiencias digitales únicas usando tecnologías modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Tus stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## ✨ Sobre mí
+
+- 🔭 Actualmente trabajando en proyectos frontend y backend.
+- 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
+- 💬 ¿Quieres hablar de código o diseño? ¡Estoy abierto a colaborar!
+- 📫 Puedes escribirme a: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+
+---
+
+## 🚀 Proyectos destacados
+
+- [🔗 Proyecto 1](#)
+- [🔗 Proyecto 2](#)
+
+---
+
+Gracias por visitar mi perfil 🙌
