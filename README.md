@@ -26,7 +26,7 @@ Desarrollador web con muchas ganas de aprender y desarrollar habilidades en dive
 
 - 🔭 Actualmente trabajando en proyectos frontend y backend.
 - 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
-- 💬 ¿Quieres hablar de código o diseño? ¡Estoy abierto a colaborar!
+- 💬 ¡Estoy abierto a colaborar!
 - 📫 Puedes escribirme a: [cristiandavidcm2000@gmail.com](cristiandavidcm2000@gmail.com)
 
 ---
