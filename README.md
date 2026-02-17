@@ -1,10 +1,13 @@
-# Sobre mi
+# Sobre mi:
 
-Desarrollador de software
+- 🔭 Desarrollador de software actualmente trabajando en proyectos backend y automatizacion.
+- 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
+- 💬 ¡Estoy abierto a colaborar!
+
 
 ---
 
-## 🛠️ Tecnologías implementadas
+## Tecnologías implementadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
@@ -22,12 +25,6 @@ Desarrollador de software
 
 --->
 
-## ✨ Sobre mí
-
-- 🔭 Actualmente trabajando en proyectos frontend y backend.
-- 🌱 Aprendiendo nuevas herramientas de diseño y desarrollo.
-- 💬 ¡Estoy abierto a colaborar!
-
 ---
 
 ## 🚀 Proyectos destacados
@@ -37,4 +34,4 @@ Desarrollador de software
 
 ---
 
-...
+Gracias por ver!!
