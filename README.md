@@ -1,7 +1,7 @@
-# Sobre mi:
+## Sobre mi:
 
 Bienvenido a mi Github, soy un desarrollador de software que busca simplificar de todas las maneras posibles nuestro dia a dia.
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristhian_moraless) 
 
 ---
 
@@ -24,10 +24,10 @@ Bienvenido a mi Github, soy un desarrollador de software que busca simplificar d
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos:
 
-- [🔗 Proyecto 1](#)
-- [🔗 Proyecto 2](#)
+- [🔗 Bot...](#)
+- [🔗 Aut...](#)
 
 ---
 
