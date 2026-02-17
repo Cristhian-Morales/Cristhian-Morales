@@ -1,10 +1,10 @@
-# ¡Hola! Soy Cristhian 👋
+# Sobre mi
 
-Desarrollador web con muchas ganas de aprender y desarrollar habilidades en diversas tecnologias.
+Desarrollador de software
 
 ---
 
-## 🛠️ Tecnologías que he implementado
+## 🛠️ Tecnologías implementadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
@@ -37,4 +37,4 @@ Desarrollador web con muchas ganas de aprender y desarrollar habilidades en dive
 
 ---
 
-Gracias por visitar mi perfil 🙌
+...
